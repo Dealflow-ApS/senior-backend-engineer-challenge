@@ -72,7 +72,7 @@ This challenge is designed to evaluate your ability to build a production-ready 
 ## Technical Specifications
 
 - **Front-end**: You may use any of the following front-end technology - React / Next.js
-- **Back-end**: Use a back-end technology you're comfortable with (JS / Python).
+- **Back-end**: Backend technology: Python
 - **Database**: Store user and payment information in a database of your choice (e.g., MySQL, PostgreSQL, MongoDB).
 - **API**: Expose a RESTful API to interact with the payment link system.
 - **Hosting**: You can deploy your app to a cloud platform like AWS, GCP, Heroku, or any hosting provider you prefer. Provide instructions on how to run the app locally.
