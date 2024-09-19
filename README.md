@@ -1,12 +1,12 @@
 
-# Staff Software Engineer Take-Home Challenge
+# Senior Software Engineer Take-Home Challenge
 
-<img src="https://github.com/Dealflow-ApS/staff-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/logo.gif" alt="logo" width="70"/>
+<img src="https://github.com/Dealflow-ApS/senior-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/logo.gif" alt="logo" width="70"/>
 
 Congratulations on making it this far :zap:. If you've received this, it means that you are now among the top applicants who applied for this position 😎. 
 <br /><br />All the best with this challenge; see you at the finish line :godmode:. <br /><br />
-<img src="https://github.com/Dealflow-ApS/staff-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/global.png" alt="logo" width="60"/>
-<img src="https://github.com/Dealflow-ApS/staff-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/limitless.png" alt="logo" width="70"/>
+<img src="https://github.com/Dealflow-ApS/senior-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/global.png" alt="logo" width="60"/>
+<img src="https://github.com/Dealflow-ApS/senior-backend-engineer-challenge/blob/492051754a921411dce3f273ec3f08edf9729979/limitless.png" alt="logo" width="70"/>
 
 ## Overview
 
@@ -118,6 +118,12 @@ This challenge is designed to evaluate your ability to build a production-ready 
 ## Time Limit
 
 You will have **5 days** to complete this take-home challenge. If you need an extension or have any questions, feel free to reach out.
+
+---
+
+## Additional resources
+
+1. [Example flow](https://www.loom.com/share/1e03d676ef934c888f8fe2c4e4059078?sid=2734ce39-f73a-4e34-8978-beb4f87a9f20)
 
 ---
 
