@@ -115,6 +115,15 @@ This challenge is designed to evaluate your ability to build a production-ready 
 
 ---
 
+## Submission process
+Submit the challenge within 3 days of receiving / starting the challenge
+Create a private Github repo
+Give the following usernames access
+siddharthmudgal
+ahmedemad242
+
+---
+
 ## Time Limit
 
 You will have **5 days** to complete this take-home challenge. If you need an extension or have any questions, feel free to reach out.
