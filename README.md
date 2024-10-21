@@ -119,8 +119,8 @@ This challenge is designed to evaluate your ability to build a production-ready 
 Submit the challenge within 3 days of receiving / starting the challenge
 Create a private Github repo
 Give the following usernames access
-siddharthmudgal
-ahmedemad242
+- siddharthmudgal
+- ahmedemad242
 
 ---
 
