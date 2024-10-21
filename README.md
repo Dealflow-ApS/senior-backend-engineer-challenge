@@ -66,6 +66,8 @@ This challenge is designed to evaluate your ability to build a production-ready 
 - **CI/CD Pipeline**: Set up a basic CI/CD pipeline to automate testing and deployment.
 - **Logging and Monitoring**:
   - Implement logging to capture important events (e.g., payment status changes, failed attempts, etc.).
+- **Analytics**
+  - Implement and build an analytics pipeline with tools like Metabase to showcase different metrics 
 
 ---
 
